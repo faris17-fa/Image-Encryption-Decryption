@@ -55,6 +55,7 @@ The encrypted and decrypted images can be saved to your desired location.
 Project Structure
 image_encryption_decryption.py: Main Python script containing the implementation of the encryption and decryption tool.
 requirements.txt: List of dependencies required for the project.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
